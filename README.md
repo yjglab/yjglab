@@ -1,7 +1,7 @@
 ## About Me
 
 ![Jaegyong Yuk's github stats](https://github-readme-stats.vercel.app/api?username=yjglab&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yjglab)](https://solved.ac/yjglab)
+[![Solved.ac yjglab](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
