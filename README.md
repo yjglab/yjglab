@@ -11,4 +11,4 @@
 Hi, I am a **Software Development preparation student** that interested in many technologies such as **Frontend, Backend, Machine Learning** from Republic of Korea.
 
 - **Computer Engineering, Communication Design** Major
-- **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjglab.tistory.com), [Behance](https://www.behance.net/yukjaegyong)[Essay]()
+- **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong), [Essay]()
