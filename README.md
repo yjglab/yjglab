@@ -10,8 +10,8 @@
 ![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![mongodb](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![inDesign](http://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=InDesign&logoColor=white)
-![illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Illustrator&logoColor=white)
+![inDesign](http://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=inDesign&logoColor=white)
+![illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white)
 ![cinema4d](http://img.shields.io/badge/-Cinema%204D-011A6A?style=flat-square&logo=cinema4d&logoColor=white)
 
 <!-- ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
