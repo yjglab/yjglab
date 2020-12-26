@@ -11,7 +11,7 @@
 ![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![mongodb](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![AdobeInDesign](http://img.shields.io/badge/-AdobeInDesign-EE3D8F?style=flat-square&logo=AdobeInDesign&logoColor=white)
-![AdobeIllustrator](http://img.shields.io/badge/-Adobe-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
+![Adobe-Illustrator](http://img.shields.io/badge/-Adobe-Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
 ![Cinema4D](http://img.shields.io/badge/-Cinema4D-011A6A?style=flat-square&logo=Cinema4D&logoColor=white)
 
 <!-- ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
