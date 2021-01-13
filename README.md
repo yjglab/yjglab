@@ -17,7 +17,7 @@
 <!-- ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
 <!-- ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 
-I am a **Software Development preparation student** that interested in many technologies such as **Front-end, Back-end, Machine Learning** from Republic of Korea.
+**Software Development preparation student** that interested in **Full stack development && Machine learning** from Republic of Korea.
 
 - **Computer Engineering, Communication Design** Major
 - **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong), [Essay]()
