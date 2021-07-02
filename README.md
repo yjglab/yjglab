@@ -19,5 +19,5 @@
 
 **Software Development preparation student** that interested in **Full stack development && Machine learning** from Republic of Korea.
 
-- **Computer Science, Communication Design** Major
+- **Computer Engineering, Communication Design** Major
 - **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong), [Essay]()
