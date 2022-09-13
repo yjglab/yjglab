@@ -21,4 +21,5 @@
 Preparing for TypeScript and React Frontend development.
 
 - Double Major in **Computer Engineering, Communication Design**
+- Engineer Information Processing.
 - **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong), [Essay]()
