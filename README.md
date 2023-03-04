@@ -1,25 +1,41 @@
-## About Me
+# yjglab
+Web Front-end Developer
 
-<img align="right" alt="Jaegyong Yuk's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yjglab&show_icons=true">
+> Info
+- Double Major in Computer Science, Communication Design
+- Engineer Information Processing. (2022.09.02)
+- **Communities**: [TechBlog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong)
+- **Lecture**: [Inflearn](https://inf.run/8zxx), [Programmers](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
 
-![javascript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![react](http://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![mongodb](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![cplusplus](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![inDesign](http://img.shields.io/badge/-InDesign-EE3D8F?style=flat-square&logo=inDesign&logoColor=white)
-![illustrator](http://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=illustrator&logoColor=white)
-![cinema4d](http://img.shields.io/badge/-Cinema%204D-011A6A?style=flat-square&logo=cinema4d&logoColor=white)
+> Stack
+
+<div> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux Saga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+</div>
+
+<div> 
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWSLambda-FF9900?style=for-the-badge&logo=AWSLambda&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+</div>
+
+<div> 
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+</div>
 
 
-<!-- ![go](http://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) -->
-<!-- ![php](http://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) -->
 
-Preparing for TypeScript and React Frontend development.
-
-- Double Major in **Computer Engineering, Communication Design**
-- Engineer Information Processing.
-- **Communities**: [Github](https://github.com/yjglab), [Blog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong), [Essay]()
+<!-- <img align="right" alt="Jaegyong Yuk's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yjglab&show_icons=true">
+ -->
