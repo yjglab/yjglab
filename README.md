@@ -48,7 +48,7 @@ Web developer (front-end focused)
 - 프로덕션 페이지 : [https://bloobolt.com](bloobolt.com/)
 - 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
-[Museum Union Gallery v0.0.3]() / 전시물 데이터를 이용한 인터랙티브 웹 서비스
+[Museum Union Gallery v0.0.3](https://github.com/yjglab/MuG) / 전시물 데이터를 이용한 인터랙티브 웹 서비스
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](mug-lab.fly.dev)
 - 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
 
