@@ -1,13 +1,14 @@
 # yjglab
-Web Front-end Developer
+Web developer (front-end focused)
 
-> Info
-- Double Major in Computer Science, Communication Design
-- Engineer Information Processing. (2022.09.02)
-- **Communities**: [TechBlog](https://yjg-lab.tistory.com), [Behance](https://www.behance.net/yukjaegyong)
-- **Lecture**: [Inflearn](https://inf.run/8zxx), [Programmers](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
+> 정보
+- 컴퓨터공학 / 시각디자인학 학사
+- 정보처리기사 (2022.09.02)
+- **채널** [기술 블로그](https://yjg-lab.tistory.com), [디자인 작업](https://www.behance.net/yukjaegyong)
+- **강의** [인프런](https://inf.run/8zxx), [프로그래머스](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
 
-> Stack
+
+> 기술 스택
 
 <div> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -39,7 +40,17 @@ Web Front-end Developer
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 </div>
 
+>
 
+> 개인 대표 프로젝트
+
+[BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
+- 프로덕션 페이지 : [https://bloobolt.com](bloobolt.com/)
+- 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
+
+[Museum Union Gallery v0.0.3]() / 전시물 데이터를 이용한 인터랙티브 웹 서비스
+- 프로덕션 페이지 : [https://mug-lab.fly.dev](mug-lab.fly.dev)
+- 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
 
 <!-- <img align="right" alt="Jaegyong Yuk's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=yjglab&show_icons=true">
  -->
