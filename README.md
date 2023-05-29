@@ -48,7 +48,7 @@ Web developer (front-end focused)
 - 프로덕션 페이지 : [https://bloobolt.com](bloobolt.com/)
 - 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
-[BlooWays v0.0.0](https://github.com/yjglab/BlooBolt) / 실시간 라이브 토킹 서비스 (개발 중 / 90% Completed)
+[BlooWays v0.0.0](https://github.com/yjglab/BlooWays) / 실시간 라이브 토킹 서비스 (개발 중 / 90% Completed)
 - 프로덕션 페이지 : []() 
 - 주요 스택: TypeScript, React, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, Firebase
 
