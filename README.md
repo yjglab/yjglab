@@ -48,6 +48,10 @@ Web developer (front-end focused)
 - 프로덕션 페이지 : [https://bloobolt.com](bloobolt.com/)
 - 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
+[BlooWays v0.0.0](https://github.com/yjglab/BlooBolt) / 실시간 라이브 토킹 서비스 (개발 중 / 90% Completed)
+- 프로덕션 페이지 : []() 
+- 주요 스택: TypeScript, React, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, Firebase
+
 [Museum Union Gallery v0.0.3](https://github.com/yjglab/MuG) / 전시물 데이터를 이용한 인터랙티브 웹 서비스
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](mug-lab.fly.dev)
 - 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
