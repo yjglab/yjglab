@@ -42,7 +42,7 @@ Web developer (front-end focused)
 
 >
 
-> 개인 대표 프로젝트
+> 대표 프로젝트 (개인)
 
 [BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 - 프로덕션 페이지 : [https://bloobolt.com](bloobolt.com/)
