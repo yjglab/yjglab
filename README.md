@@ -1,10 +1,11 @@
 # yjglab
 Web Full Stack developer (Front-end focused)
 
-![image](https://github.com/yjglab/tira-santorini/assets/70316567/53dcc189-4d08-4011-b85c-cbbc76cb5709)
+![image](https://github.com/yjglab/yjglab/assets/70316567/01832aae-cf3b-4825-bf48-5fda89ef7351)
 
 안녕하세요, 다양한 웹 서비스를 기획하고 디자인하며 개발하고 있는 yjglab입니다. <br />
-**Bloos**는 안정성과 신뢰성을 상징하는 'Blue'와 발전과 성장을 도모하는 'Boost'를 연결한 저의 퍼스널 브랜드입니다. **Bloos**는 안정적이고 활발한 성장과 발전을 추구하는 브랜드로, 저의 서비스의 사용자들에게 지속적인 혁신과 가치를 전달하고자 합니다.
+**Bloos**는 안정성과 신뢰성을 상징하는 'Blue'와 발전과 성장을 도모하는 'Boost'를 연결한 저의 퍼스널 브랜드입니다. <br />
+저는 안정적이고 활발한 성장과 발전을 추구하며, 저의 서비스를 통해 사용자들에게 지속적인 혁신과 가치를 전달하고자 합니다.
 
 > 정보
 - 컴퓨터공학 / 시각디자인학 학사
