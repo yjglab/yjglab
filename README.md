@@ -1,5 +1,10 @@
 # yjglab
-Web FullStack developer (Front-end focused)
+Web Full Stack developer (Front-end focused)
+
+![image](https://github.com/yjglab/tira-santorini/assets/70316567/53dcc189-4d08-4011-b85c-cbbc76cb5709)
+
+안녕하세요, 다양한 웹 서비스를 기획하고 디자인하며 개발하고 있는 yjglab입니다. <br />
+**Bloos**는 안정성과 신뢰성을 상징하는 'Blue'와 발전과 성장을 도모하는 'Boost'를 연결한 저의 퍼스널 브랜드입니다. **Bloos**는 안정적이고 활발한 성장과 발전을 추구하는 브랜드로, 저의 서비스의 사용자들에게 지속적인 혁신과 가치를 전달하고자 합니다.
 
 > 정보
 - 컴퓨터공학 / 시각디자인학 학사
@@ -46,22 +51,30 @@ Web FullStack developer (Front-end focused)
 
 ### [BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/65c859dd-94c1-4aa1-bb85-de55298e0174)
+![image](https://github.com/yjglab/yjglab/assets/70316567/8ca66b16-06fb-4cb5-b6e7-d10a318c8787)
+
 
 - 프로덕션 페이지 : [https://bloobolt.com](https://bloobolt.com/)
 - 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
 ### [BlooWays v0.0.0](https://github.com/yjglab/BlooWays) / 실시간 온라인 라이브 토킹 서비스
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/d95f98d2-88e9-4b6b-9e06-177bb59a527f)
+![image](https://github.com/yjglab/yjglab/assets/70316567/3cdba637-ca3d-4c3c-87ca-23ebbeaf863f)
+
 
 - 프로덕션 페이지 : [https://blooways.online](https://blooways.online/) 
 - 주요 스택: TypeScript, React, React Router, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, AWS
 
 ### [Museum Union Gallery v0.0.3](https://github.com/yjglab/MuG) / 전시물 데이터를 이용한 인터랙티브 웹 서비스
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/85ef5048-3309-4341-b417-221393035018)
+![image](https://github.com/yjglab/yjglab/assets/70316567/4cee1794-ddd5-4494-9a70-417a58c6293e)
 
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](https://mug-lab.fly.dev)
 - 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
 
+### [TIRA v0.0.0](https://github.com/yjglab/tira-santorini) / 티라미수 케이크 쇼핑몰 사이트
+
+![image](https://github.com/yjglab/BlooWays/assets/70316567/2f275afb-7afe-45d2-abc9-a49e0903ab3a)
+
+- 프로덕션 페이지 : [https://tira-santorini.fly.dev](https://tira-santorini.fly.dev)
+- 주요 스택: JavaScript, Pug, SCSS
