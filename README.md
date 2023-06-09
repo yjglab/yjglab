@@ -1,7 +1,7 @@
 # yjglab
 Web Full Stack developer (Front-end focused)
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/01832aae-cf3b-4825-bf48-5fda89ef7351)
+![image](https://github.com/yjglab/yjglab/assets/70316567/24303680-9fb1-4477-a4a3-13be5b0c5dd5)
 
 안녕하세요, 다양한 웹 서비스를 기획하고 디자인하며 개발하고 있는 yjglab입니다. <br />
 **Bloos**는 안정성과 신뢰성을 상징하는 'Blue'와 발전과 성장을 도모하는 'Boost'를 연결한 저의 퍼스널 브랜드입니다. <br />
