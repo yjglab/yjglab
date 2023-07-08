@@ -10,7 +10,7 @@ Web Full Stack developer (Front-end focused)
 > 정보
 - 컴퓨터공학 / 시각디자인학 학사
 - 정보처리기사 (2022.09.02)
-- **채널** [기술 블로그](https://yjg-lab.tistory.com), [디자인 작업](https://www.behance.net/yukjaegyong)
+- **채널** [포트폴리오](https://yukjaekyeong.web.app/), [기술 블로그](https://yjg-lab.tistory.com), [디자인 작업](https://www.behance.net/yukjaegyong)
 - **강의** [인프런](https://inf.run/8zxx), [프로그래머스](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
 
 
