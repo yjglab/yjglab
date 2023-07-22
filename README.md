@@ -52,7 +52,9 @@ Web Full Stack developer (Front-end focused)
 
 ### [BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/8ca66b16-06fb-4cb5-b6e7-d10a318c8787)
+![image](https://github.com/yjglab/yjglab/assets/70316567/1e8da552-6c97-47fa-ae92-4c9c064390cd)
+
+
 
 
 - 프로덕션 페이지 : [https://bloobolt.com](https://bloobolt.com/)
@@ -60,7 +62,7 @@ Web Full Stack developer (Front-end focused)
 
 ### [BlooWays v0.0.0](https://github.com/yjglab/BlooWays) / 실시간 온라인 라이브 토킹 서비스
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/3cdba637-ca3d-4c3c-87ca-23ebbeaf863f)
+![image](https://github.com/yjglab/yjglab/assets/70316567/489f4c52-fc0f-4dad-af45-a8eec26a5ad7)
 
 
 - 프로덕션 페이지 : [https://blooways.online](https://blooways.online/) 
@@ -68,14 +70,15 @@ Web Full Stack developer (Front-end focused)
 
 ### [Museum Union Gallery v0.0.3](https://github.com/yjglab/MuG) / 전시물 데이터를 이용한 인터랙티브 웹 서비스
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/4cee1794-ddd5-4494-9a70-417a58c6293e)
+![image](https://github.com/yjglab/yjglab/assets/70316567/cc40ae6c-db72-4adb-b5db-6688f3b87b2e)
 
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](https://mug-lab.fly.dev)
 - 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
 
 ### [TIRA v0.0.0](https://github.com/yjglab/tira-santorini) / 티라미수 케이크 쇼핑몰 사이트
 
-![image](https://github.com/yjglab/BlooWays/assets/70316567/2f275afb-7afe-45d2-abc9-a49e0903ab3a)
+![image](https://github.com/yjglab/yjglab/assets/70316567/dbc717b1-ad83-4f1a-9ea9-1d9469fba0a0)
+
 
 - 프로덕션 페이지 : [https://tira-santorini.fly.dev](https://tira-santorini.fly.dev)
 - 주요 스택: JavaScript, Pug, SCSS
