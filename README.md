@@ -1,7 +1,8 @@
 # yjglab
 Web Full Stack developer (Front-end focused)
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/3ab1beb6-62ef-435b-9695-7e28dac39fdd)
+![image](https://github.com/yjglab/yjglab/assets/70316567/f12f5809-035c-4eed-b473-ccfe0ed3e9bb)
+
 
 안녕하세요, 다양한 웹 서비스를 기획하고 디자인하며 개발하고 있는 yjglab입니다. <br />
 **Bloo**는 안정성과 신뢰성을 상징하는 'Blue'와 발전과 성장을 도모하는 'Boost'를 연결한 저의 퍼스널 브랜드입니다. <br />
@@ -52,18 +53,14 @@ Web Full Stack developer (Front-end focused)
 
 ### [BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/1e8da552-6c97-47fa-ae92-4c9c064390cd)
-
-
-
+![image](https://github.com/yjglab/yjglab/assets/70316567/b4e676d1-855f-4e5f-8e12-73032a1c421b)
 
 - 프로덕션 페이지 : [https://bloobolt.com](https://bloobolt.com/)
 - 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
 ### [BlooWays v0.0.0](https://github.com/yjglab/BlooWays) / 실시간 온라인 라이브 토킹 서비스
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/489f4c52-fc0f-4dad-af45-a8eec26a5ad7)
-
+![image](https://github.com/yjglab/yjglab/assets/70316567/b93ea82a-31de-4e26-b88a-3d77d37036e2)
 
 - 프로덕션 페이지 : [https://blooways.online](https://blooways.online/) 
 - 주요 스택: TypeScript, React, React Router, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, AWS
