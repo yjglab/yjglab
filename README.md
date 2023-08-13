@@ -40,9 +40,16 @@ Web Full Stack developer (Front-end focused)
 <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
 </div>
 
->
+<br />
 
-> 대표 프로젝트 (개인)
+> 대표 프로젝트 
+
+### [Nebaram v0.0.0](https://github.com/yjglab/nebaram) / 퍼스널 브랜드 서비스 (Portfolio)
+
+![image](https://github.com/yjglab/yjglab/assets/70316567/dd4f72c7-e065-4514-92c9-177936e21d59)
+
+- 프로덕션 페이지 : [https://nebaram.vercel.app](https://nebaram.vercel.app/)
+- 주요 스택: TypeScript, Next, React, TailwindCSS, Framer, Vercel
 
 ### [BlooBolt v0.2.0](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
@@ -64,11 +71,3 @@ Web Full Stack developer (Front-end focused)
 
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](https://mug-lab.fly.dev)
 - 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
-
-### [TIRA v0.0.0](https://github.com/yjglab/tira-santorini) / 티라미수 케이크 쇼핑몰 사이트
-
-![image](https://github.com/yjglab/yjglab/assets/70316567/dbc717b1-ad83-4f1a-9ea9-1d9469fba0a0)
-
-
-- 프로덕션 페이지 : [https://tira-santorini.fly.dev](https://tira-santorini.fly.dev)
-- 주요 스택: JavaScript, Pug, SCSS
