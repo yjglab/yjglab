@@ -4,36 +4,50 @@ Web Full Stack developer (Front-end focused)
 > 정보
 - 컴퓨터공학 / 시각디자인학 학사
 - 정보처리기사 (2022.09.02)
-- **채널** [포트폴리오](https://yukjaekyeong.web.app/), [기술 블로그](https://yjg-lab.tistory.com), [디자인 작업](https://www.behance.net/yukjaegyong)
+- **채널** [퍼스널 브랜드](https://nebaram.vercel.app), [기술 블로그](https://yjg-lab.tistory.com), [디자인 프로젝트](https://www.behance.net/yukjaegyong)
 - **강의** [인프런](https://inf.run/8zxx), [프로그래머스](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
 
 
 > 기술 스택
 
+Front-end
 <div> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+
 </div>
 
+Back-end
+<div> 
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+</div>
+
+Style
 <div>
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=Pug&logoColor=white">
+<img src="https://img.shields.io/badge/Emotion-569A31?style=for-the-badge&logo=Emotion&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </div>
 
-<div> 
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+Dev-ops
+<div>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=for-the-badge&logo=AWSLambda&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 
-<div> 
+Design
+<div>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=AdobeInDesign&logoColor=white">
@@ -44,7 +58,7 @@ Web Full Stack developer (Front-end focused)
 
 > 대표 프로젝트 
 
-### [Hoolter, 훌터](https://github.com/yjglab/Hoolter) / 내 작품을 검증할 수 있는 유일한 공간
+### [Hoolter, 훌터](https://github.com/yjglab/Hoolter) / 내 작품을 바르게 검증할 수 있는 곳
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/25cd3726-158b-4e40-9ba5-33acf38de0ae)
 
