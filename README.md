@@ -65,33 +65,33 @@ Design
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/25cd3726-158b-4e40-9ba5-33acf38de0ae)
 
-- 프로덕션 페이지 : [2023.11월 공개 예정](#)
-- 주요 스택: TypeScript, Next, React, React Query, TailwindCSS, Emotion, Framer, Nest.js, Prisma, PostgreSQL, Vercel, Firebase
+- 프로덕션 페이지 : [2023.12월 공개 예정](#)
+- 기술 스택: TypeScript, Next, React, React Query, TailwindCSS, Emotion, Framer, Nest.js, Prisma, Redis, Socket.io, PostgreSQL, Vercel, Firebase
 
 ### [Nebaram](https://github.com/yjglab/nebaram) / 퍼스널 브랜드 서비스 (Portfolio)
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/dd4f72c7-e065-4514-92c9-177936e21d59)
 
 - 프로덕션 페이지 : [https://nebaram.vercel.app](https://nebaram.vercel.app/)
-- 주요 스택: TypeScript, Next, React, TailwindCSS, Framer, Vercel
+- 기술 스택: TypeScript, Next, React, TailwindCSS, Framer, Vercel
 
 ### [BlooBolt](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/b4e676d1-855f-4e5f-8e12-73032a1c421b)
 
 - 프로덕션 페이지 : [https://bloobolt.com](https://bloobolt.com/)
-- 주요 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
+- 기술 스택: TypeScript, Next, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
 
 ### [BlooWays](https://github.com/yjglab/BlooWays) / 실시간 온라인 라이브 토킹 서비스
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/b93ea82a-31de-4e26-b88a-3d77d37036e2)
 
 - 프로덕션 페이지 : [https://blooways.online](https://blooways.online/) 
-- 주요 스택: TypeScript, React, React Router, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, AWS
+- 기술 스택: TypeScript, React, React Router, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, AWS
 
 ### [Museum Union Gallery](https://github.com/yjglab/MuG) / 전시물 데이터를 이용한 인터랙티브 웹 서비스
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/cc40ae6c-db72-4adb-b5db-6688f3b87b2e)
 
 - 프로덕션 페이지 : [https://mug-lab.fly.dev](https://mug-lab.fly.dev)
-- 주요 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
+- 기술 스택: JavaScript, JQuery, Pug, SCSS, Express, MongoDB
