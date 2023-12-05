@@ -61,11 +61,11 @@ Design
 
 > 대표 프로젝트 
 
-### [Hoolter, 훌터](https://github.com/yjglab/Hoolter) / 내 작품을 바르게 검증할 수 있는 곳
+### [Introduce](https://github.com/yjglab/introduce) / 내 작품을 가장 바르게 검증할 수 있는 곳
 
-![image](https://github.com/yjglab/yjglab/assets/70316567/25cd3726-158b-4e40-9ba5-33acf38de0ae)
+![image](https://github.com/yjglab/yjglab/assets/70316567/df0b89fe-c7b0-4683-a93d-3a8706ecdf95)
 
-- 프로덕션 페이지 : [2023.12월 공개 예정](#)
+- 프로덕션 페이지 : [2024.02월 공개 예정](#)
 - 기술 스택: TypeScript, Next, React, React Query, TailwindCSS, Emotion, Framer, Nest.js, Prisma, Redis, Socket.io, PostgreSQL, Vercel, Firebase
 
 ### [Nebaram](https://github.com/yjglab/nebaram) / 퍼스널 브랜드 서비스 (Portfolio)
