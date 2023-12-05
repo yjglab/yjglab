@@ -61,7 +61,7 @@ Design
 
 > 대표 프로젝트 
 
-### [Introduce](https://github.com/yjglab/introduce) / 내 작품을 가장 바르게 검증할 수 있는 곳
+### [Introduce](https://github.com/yjglab/introduce.official) / 내 작품을 가장 바르게 검증할 수 있는 곳
 
 ![image](https://github.com/yjglab/yjglab/assets/70316567/df0b89fe-c7b0-4683-a93d-3a8706ecdf95)
 
