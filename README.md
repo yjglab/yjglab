@@ -16,6 +16,7 @@ Front-end
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
 <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
 <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Redux Saga-999999?style=for-the-badge&logo=ReduxSaga&logoColor=white">
@@ -73,7 +74,7 @@ Design
 ![image](https://github.com/yjglab/yjglab/assets/70316567/dd4f72c7-e065-4514-92c9-177936e21d59)
 
 - 프로덕션 페이지 : [https://nebaram.vercel.app](https://nebaram.vercel.app/)
-- 기술 스택: TypeScript, Next, React, TailwindCSS, Framer, Vercel
+- 기술 스택: TypeScript, Next, React, i18next, TailwindCSS, Framer, Vercel
 
 ### [BlooBolt](https://github.com/yjglab/BlooBolt) / 소프트웨어 개발자와 기획자, 디자이너들의 소통 스퀘어
 
