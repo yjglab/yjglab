@@ -1,14 +1,20 @@
 # yjglab
-Web Full Stack developer (Front-end focused)
+Web developer
 
-> 정보
-- 컴퓨터공학사 / 시각디자인학사
-- 정보처리기사 (2022.09.02)
-- **채널** [퍼스널 브랜드](https://nebaram.vercel.app), [기술 블로그](https://yjg-lab.tistory.com), [디자인 프로젝트](https://www.behance.net/yukjaegyong)
-- **강의** [인프런](https://inf.run/8zxx), [프로그래머스](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
+> Info.
+- Bachelor of Computer Science / Bachelor of Communication Design
+- Grand Prize, ICT Innovation Square Coding Competition (IT&CT Industry Promotion Agency)
+- Programmers Certified Coding Professional in JavaScript (Grepp, Inc.)
+- Engineer Information Processing(HRD Korea)
+
+- **Channels** [Psnl. brand](https://nebaram.vercel.app), [Tech Blog](https://yjg-lab.tistory.com), [Digital Project](https://www.behance.net/yukjaegyong)
+- **Lectures**
+  - [NumPy programming for Data Analysis - V1, Inflearn](https://inf.run/xadJ)
+  - [NumPy programming for Data Analysis - V2, Programmers](https://school.programmers.co.kr/learn/courses/16290/16290-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-numpy)
+  - [Notion Clone Project with Next/Nest Web](https://) (Ongoing)
 
 
-> 기술 스택
+> Tech Stack.
 
 Front-end
 <div> 
@@ -60,7 +66,7 @@ Design
 
 <br />
 
-> 대표 프로젝트 
+> President.
 
 ### [Introduce](https://github.com/yjglab/introduce.official) / 내 작품을 가장 바르게 검증할 수 있는 곳
 
