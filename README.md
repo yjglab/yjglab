@@ -2,9 +2,9 @@
 Web developer
 
 > Info.
-- Bachelor of Computer Science / Bachelor of Communication Design
 - Grand Prize, ICT Innovation Square Coding Competition (IT&CT Industry Promotion Agency)
 - Programmers Certified Coding Professional in JavaScript (Grepp, Inc.)
+- Bachelor of Computer Science / Bachelor of Communication Design
 - Engineer Information Processing(HRD Korea)
 - **Channels** [Psnl. brand](https://nebaram.vercel.app), [Tech Blog](https://yjg-lab.tistory.com), [Digital Project](https://www.behance.net/yukjaegyong)
 - **Lectures**
@@ -23,6 +23,7 @@ Web developer
 
 <br />
 
+
 > President.
 
 #### [Introduce](https://github.com/yjglab/) / A space where you can most accurately verify your projects.
@@ -35,17 +36,9 @@ Web developer
 - [https://nebaram.vercel.app](https://nebaram.vercel.app/)
 - TypeScript, Next.js, React, i18next, TailwindCSS, Framer Motion, Vercel
 
-#### [BlooBolt](https://github.com/yjglab/BlooBolt) / Communication Square for software developers, project managers, and designers.
+<br />
 
-- [https://bloobolt.com](https://bloobolt.com/)
-- TypeScript, Next.js, React, Redux Toolkit, TailwindCSS, Express, Sequelize MySQL, AWS
+> Open Source.
 
-#### [BlooWays](https://github.com/yjglab/BlooWays) / Real-time live talking service.
+- 
 
-- [https://blooways.online](https://blooways.online/) 
-- TypeScript, React, React Router, SWR, Socket.io, TailwindCSS, Styled-components, Express, Sequelize MySQL, AWS
-
-#### [Museum Union Gallery](https://github.com/yjglab/MuG) / Interactive web service using exhibition data.
-
-- [https://mug-lab.fly.dev](https://mug-lab.fly.dev)
-- JavaScript, JQuery, Pug, SCSS, Express, MongoDB
