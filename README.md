@@ -14,22 +14,22 @@
 
 - Client: TypeScript + React / Next +i18 / Tanstack Query / Redux Toolkit / Zustand
 - Server: TypeScript + Nest / Prisma / Sql
-- Style: TailwindCSS / Framer Motion
+- Style: TailwindCSS + Framer Motion
 - Design: Illustrator / InDesign / Premiere Pro
 
 <br />
 
 > President.
 
-#### [⏳gitground/official](https://github.com/yjglab) / The ground you can most accurately verify your git projects.
+#### [⏳gitground](https://github.com/yjglab) :: The ground you can most accurately verify your git projects.
 
 ![qwdqw](https://github.com/yjglab/yjglab/assets/70316567/79196033-6ade-405a-a066-806745e22f9a)
 
 
-- [Will be distributed in second half, 2024](#)
+- [September 01, 2024](#)
 - TypeScript, Next.js, React, Tanstack Query, Zustand, TailwindCSS, Framer Motion, Nest.js, Prisma, Redis, Socket.io, MongoDB, AWS
 
-#### [💿nebaram](https://github.com/yjglab/nebaram) / Introduction.
+#### [💿nebaram](https://github.com/yjglab/nebaram) :: Introduction.
 
 - [https://nebaram.vercel.app](https://nebaram.vercel.app/)
 - TypeScript, Next.js, React, i18next, TailwindCSS, Framer Motion, Vercel
