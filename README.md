@@ -1,4 +1,4 @@
-# Jaekyeong Yuk
+### Jaekyeong Yuk
 
 > Info.
 - 🥇Grand Prize, ICT Innovation Square Coding Competition (IT&CT Industry Promotion Agency)
@@ -19,15 +19,15 @@
 
 <br />
 
-> President.
+> Rep works.
 
-#### [⏳gitground](https://github.com/yjglab) :: The ground you can most accurately verify your git projects.
+#### [⏳GitGround](https://github.com/yjglab) :: Showcase, Connect, and Discover Tech Talent.
 
 ![qwdqw](https://github.com/yjglab/yjglab/assets/70316567/79196033-6ade-405a-a066-806745e22f9a)
 
 
-- [September 01, 2024](#)
-- TypeScript, Next.js, React, Tanstack Query, Zustand, TailwindCSS, Framer Motion, Nest.js, Prisma, Redis, Socket.io, MongoDB, AWS
+- [January, 2025. confirmed](#)
+- TypeScript, Next.js, React, Tanstack Query, Zustand, TailwindCSS, Framer Motion, Nest.js, Prisma, Redis, Socket.io, AWS
 
 #### [💿nebaram](https://github.com/yjglab/nebaram) :: Introduction.
 
@@ -35,8 +35,3 @@
 - TypeScript, Next.js, React, i18next, TailwindCSS, Framer Motion, Vercel
 
 <br />
-
-> Open Source.
-
-- @gitground/react-table (soon)
-
