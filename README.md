@@ -25,13 +25,10 @@
 
 ![qwdqw](https://github.com/yjglab/yjglab/assets/70316567/79196033-6ade-405a-a066-806745e22f9a)
 
-
-- [January, 2025. confirmed](#)
-- TypeScript, Next.js, React, Tanstack Query, Zustand, TailwindCSS, Framer Motion, Nest.js, Prisma, Redis, Socket.io, AWS
+- [June '25 Release.](#)
 
 #### [💿nebaram](https://github.com/yjglab/nebaram) :: Introduction.
 
 - [https://nebaram.vercel.app](https://nebaram.vercel.app/)
-- TypeScript, Next.js, React, i18next, TailwindCSS, Framer Motion, Vercel
 
 <br />
