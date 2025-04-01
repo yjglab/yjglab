@@ -12,8 +12,9 @@
 
 > Tech.
 
-- Client: TypeScript + React / Next +i18 / Tanstack Query / Redux Toolkit / Zustand
-- Server: TypeScript + Nest / Prisma / Sql
+- Base: TypeScript
+- Client: React / Next / SWR / Redux Toolkit / Zustand
+- Server/DB: Nest / Prisma / Drizzle + Mysql
 - Style: TailwindCSS + Framer Motion
 - Design: Illustrator / InDesign / Premiere Pro
 
